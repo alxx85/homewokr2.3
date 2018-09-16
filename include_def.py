@@ -11,7 +11,7 @@ def descriptions_len_list(list_len):
             quantity_discription[quantity] += 1
     return quantity_discription
 
-def words_top(dict_quantity,):
+def words_top(dict_quantity):
     quantity = 1
     list_word = list()
     while quantity <= 10:
